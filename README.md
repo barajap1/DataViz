@@ -5,6 +5,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 
 
 ## Books
+Visualization Analysis and Design by Tamara Munzner (link)[https://www.cs.ubc.ca/~tmm/vadbook/]
 
 ## Videos
 
@@ -12,3 +13,9 @@ This will be a collection for me to remember important concepts, topics, pacages
 
 ## Blogs to follow
 
+## Packages
+Colors for All (link)[https://github.com/mtennekes/cols4all]
+
+
+## Courses
+Visualization Analysis and Design by Tamara Munzner (link)[https://www.cs.ubc.ca/~tmm/vadbook/]
