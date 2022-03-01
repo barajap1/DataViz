@@ -23,6 +23,9 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Artyfarty -  collection of ggplot themes published by dataroots [link](https://github.com/datarootsio/artyfarty)
 * Statebins - Alternative to choropleths of US States [link](https://github.com/hrbrmstr/statebins)
 * hrbrthemes - Opinionated, typographic-centric ggplot2 themes and theme components [link](https://github.com/hrbrmstr/hrbrthemes)
+* scattermore - very fast scatterplots for R [link](https://github.com/exaexa/scattermore#scattermore)
+
+
 
 ## Courses
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
