@@ -12,6 +12,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Videos
 
 ## Blogposts
+Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-guide)
 
 ## Blogs to follow
 
@@ -24,8 +25,9 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Statebins - Alternative to choropleths of US States [link](https://github.com/hrbrmstr/statebins)
 * hrbrthemes - Opinionated, typographic-centric ggplot2 themes and theme components [link](https://github.com/hrbrmstr/hrbrthemes)
 * scattermore - very fast scatterplots for R [link](https://github.com/exaexa/scattermore#scattermore)
-
-
+* tinter - An R package to get tints and shades (and both) of a colour [link](https://github.com/sebdalgarno/tinter)
+* reactablefmtr - Customize and Enhance Your Reactable Table [link](https://github.com/kcuilla/reactablefmtr)
+* econocharts - Microeconomics/macroeconomics charts in ggplot2 [link](https://github.com/R-CoderDotCom/econocharts)
 
 ## Courses
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
@@ -38,3 +40,4 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Tanya Shapiro - 30DayMapChallenge [link](https://github.com/tashapiro/30DayMapChallenge)
 * MX Maps - package for making maps of Mexico [link](https://github.com/diegovalle/mxmaps)
 
+[link]()
