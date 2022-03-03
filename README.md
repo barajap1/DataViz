@@ -8,13 +8,16 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
 
-
 ## Videos
 
 ## Blogposts
-Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-guide)
+* Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-guide)
+* Recreating the work of Minard in R [link](https://github.com/schochastics/minard)
+* ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R [link](https://github.com/z3tt/OutlierConf2021)
+* Creating-maps-in-R - Introductory tutorial on graphical display of geographical information in R. [link](https://github.com/Robinlovelace/Creating-maps-in-R)
 
 ## Blogs to follow
+* Georgios Karamanis - Code and plots for submissions to the #tidytuesday challenge [link](https://github.com/gkaramanis/tidytuesday)
 
 ## Packages
 * Colors for All [link](https://github.com/mtennekes/cols4all)
@@ -28,16 +31,27 @@ Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-
 * tinter - An R package to get tints and shades (and both) of a colour [link](https://github.com/sebdalgarno/tinter)
 * reactablefmtr - Customize and Enhance Your Reactable Table [link](https://github.com/kcuilla/reactablefmtr)
 * econocharts - Microeconomics/macroeconomics charts in ggplot2 [link](https://github.com/R-CoderDotCom/econocharts)
+* COLOURlovers - R Client for the COLOURlovers API [link](https://github.com/andrewheiss/colourlovers)
+* bakeoff -  analysis, and visualizations using data from “The Great British Bake Off”.[link](https://github.com/apreshill/bakeoff)
+* cartogram: Create Cartograms with R [link](https://github.com/sjewo/cartogram)
+* maptiles [link](https://github.com/riatelab/maptiles)
+* ggpattern - ggplot geoms with pattern fills [link](https://github.com/coolbutuseless/ggpattern)
+* ggspatial - Enhancing spatial visualization in ggplot2 [link](https://github.com/paleolimbot/ggspatial)
+* puddingR - An R package for Pudding-styled analysis [link](https://github.com/the-pudding/puddingR)
 
 ## Courses
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Data visualization for educational data science [link](https://github.com/uo-datasci-specialization/c2-dataviz-2021)
 * MIDS W209 Information Visualization Slides [link](https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides)
+* Data Visualization with R (PMAP 8921, Summer 2021) [link](https://github.com/andrewheiss/datavizs21.classes.andrewheiss.com)
 
 ## Maps
 * R City Views - Shiny application to render minimalistic aerial city views [link](https://github.com/barajap1?tab=stars)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
 * Tanya Shapiro - 30DayMapChallenge [link](https://github.com/tashapiro/30DayMapChallenge)
 * MX Maps - package for making maps of Mexico [link](https://github.com/diegovalle/mxmaps)
+* cartogram: Create Cartograms with R [link](https://github.com/sjewo/cartogram)
+* maptiles [link](https://github.com/riatelab/maptiles)
+* ggspatial - Enhancing spatial visualization in ggplot2 [link](https://github.com/paleolimbot/ggspatial)
 
 [link]()
