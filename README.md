@@ -4,22 +4,36 @@ A repo for DataViz resources, tips, notes, etc.
 This will be a collection for me to remember important concepts, topics, pacages, notes on blogs, books and other thigns I read and learn
 
 
-## Books
+## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
 
-## Videos
+## Videos [link]()
 
-## Blogposts
+## Blogposts [link]()
 * Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-guide)
 * Recreating the work of Minard in R [link](https://github.com/schochastics/minard)
 * ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R [link](https://github.com/z3tt/OutlierConf2021)
 * Creating-maps-in-R - Introductory tutorial on graphical display of geographical information in R. [link](https://github.com/Robinlovelace/Creating-maps-in-R)
+* Graphics principles - Landing page for the graphics principles site [link](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io)
+* Graphics principles CheatSheet - Repository for the cheatsheet and R code for generating the examples displayed. [link](https://github.com/GraphicsPrinciples/CheatSheet)
 
-## Blogs to follow
+## Blogs to follow [link]()
+* rcreate - Data viz recreates, made with ggplot2 [link](https://github.com/haro-ca/rcreate)
+
+
+## Tidy Tuesday Projects [link]()
 * Georgios Karamanis - Code and plots for submissions to the #tidytuesday challenge [link](https://github.com/gkaramanis/tidytuesday)
+* NearAndDistant - Tidy Tuesday Projects (R) [link](https://github.com/NearAndDistant/data_science_with_r)
+* Tobias Stalder - code on tidy tuesday visualisations [link](https://github.com/toebR/Tidy-Tuesday)
+* Philippe Massicotte - Various visualizations. Nothing more. [link](https://github.com/PMassicotte/dataviz)
+* Henryjean - CovidHexMap [link](https://github.com/Henryjean/CovidHexMap)
+* Karo Ronty - Exploring bear markets of the S&P 500 [link](https://github.com/KaroRonty/BearMarkets)
 
-## Packages
+
+
+## Packages [link]()
+* Awesome ggplot2 - A curated list of awesome ggplot2 tutorials, packages etc. [link](https://github.com/erikgahner/awesome-ggplot2)
 * Colors for All [link](https://github.com/mtennekes/cols4all)
 * MetBrewer - Palettes inspired by works at the Metropolitan Museum of Art in New York. [link](https://github.com/BlakeRMills/MetBrewer)
 * LTC Palettes [link](https://github.com/loukesio/ltc_palettes)
@@ -38,14 +52,20 @@ This will be a collection for me to remember important concepts, topics, pacages
 * ggpattern - ggplot geoms with pattern fills [link](https://github.com/coolbutuseless/ggpattern)
 * ggspatial - Enhancing spatial visualization in ggplot2 [link](https://github.com/paleolimbot/ggspatial)
 * puddingR - An R package for Pudding-styled analysis [link](https://github.com/the-pudding/puddingR)
+* ggannotate - Interactively annotate ggplots [link](https://github.com/MattCowgill/ggannotate)   
+* carbonate - carbon.js for R [link](https://github.com/yonicd/carbonate)
 
-## Courses
+## Courses/Tutorials [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Data visualization for educational data science [link](https://github.com/uo-datasci-specialization/c2-dataviz-2021)
 * MIDS W209 Information Visualization Slides [link](https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides)
 * Data Visualization with R (PMAP 8921, Summer 2021) [link](https://github.com/andrewheiss/datavizs21.classes.andrewheiss.com)
+* LA Times DataDesk - code examples and tutorials [link](https://github.com/datadesk/tutorials)
+* BuzzFeedNews - open-source data, analysis, libraries, tools, and guides. [link](https://github.com/BuzzFeedNews/everything)
+* Washington Post - helicopters  [link](https://github.com/wpinvestigative/helicopters_dc)
+* admoseremic - code, examples, sample files, and slides shared in the Advanced Analysis with the Adobe Experience Platform and R Session from 2020 [link](https://github.com/admoseremic/summit2020)
 
-## Maps
+## Maps [link]()
 * R City Views - Shiny application to render minimalistic aerial city views [link](https://github.com/barajap1?tab=stars)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
 * Tanya Shapiro - 30DayMapChallenge [link](https://github.com/tashapiro/30DayMapChallenge)
@@ -53,5 +73,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * cartogram: Create Cartograms with R [link](https://github.com/sjewo/cartogram)
 * maptiles [link](https://github.com/riatelab/maptiles)
 * ggspatial - Enhancing spatial visualization in ggplot2 [link](https://github.com/paleolimbot/ggspatial)
+* Henryjean - CovidHexMap [link](https://github.com/Henryjean/CovidHexMap)
+* culburra - Artistic town street map made with Open Street Map data and ggplot2 [link](https://github.com/deanmarchiori/culburra)
 
 [link]()
