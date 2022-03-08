@@ -54,6 +54,8 @@ This will be a collection for me to remember important concepts, topics, pacages
 * puddingR - An R package for Pudding-styled analysis [link](https://github.com/the-pudding/puddingR)
 * ggannotate - Interactively annotate ggplots [link](https://github.com/MattCowgill/ggannotate)   
 * carbonate - carbon.js for R [link](https://github.com/yonicd/carbonate)
+* mmtable2 - Create and combine tables with a ggplot2/patchwork syntax. [link](https://github.com/ianmoran11/mmtable2/)
+
 
 ## Courses/Tutorials [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
