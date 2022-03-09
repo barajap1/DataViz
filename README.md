@@ -3,7 +3,6 @@ A repo for DataViz resources, tips, notes, etc.
 
 This will be a collection for me to remember important concepts, topics, pacages, notes on blogs, books and other thigns I read and learn
 
-
 ## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
@@ -21,7 +20,6 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Blogs to follow [link]()
 * rcreate - Data viz recreates, made with ggplot2 [link](https://github.com/haro-ca/rcreate)
 
-
 ## Tidy Tuesday Projects [link]()
 * Georgios Karamanis - Code and plots for submissions to the #tidytuesday challenge [link](https://github.com/gkaramanis/tidytuesday)
 * NearAndDistant - Tidy Tuesday Projects (R) [link](https://github.com/NearAndDistant/data_science_with_r)
@@ -29,8 +27,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Philippe Massicotte - Various visualizations. Nothing more. [link](https://github.com/PMassicotte/dataviz)
 * Henryjean - CovidHexMap [link](https://github.com/Henryjean/CovidHexMap)
 * Karo Ronty - Exploring bear markets of the S&P 500 [link](https://github.com/KaroRonty/BearMarkets)
-
-
+* Jake Kaupp - Entries for tidytuesday [link](https://github.com/jkaupp/tidytuesdays)
 
 ## Packages [link]()
 * Awesome ggplot2 - A curated list of awesome ggplot2 tutorials, packages etc. [link](https://github.com/erikgahner/awesome-ggplot2)
@@ -56,7 +53,6 @@ This will be a collection for me to remember important concepts, topics, pacages
 * carbonate - carbon.js for R [link](https://github.com/yonicd/carbonate)
 * mmtable2 - Create and combine tables with a ggplot2/patchwork syntax. [link](https://github.com/ianmoran11/mmtable2/)
 
-
 ## Courses/Tutorials [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Data visualization for educational data science [link](https://github.com/uo-datasci-specialization/c2-dataviz-2021)
@@ -66,6 +62,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * BuzzFeedNews - open-source data, analysis, libraries, tools, and guides. [link](https://github.com/BuzzFeedNews/everything)
 * Washington Post - helicopters  [link](https://github.com/wpinvestigative/helicopters_dc)
 * admoseremic - code, examples, sample files, and slides shared in the Advanced Analysis with the Adobe Experience Platform and R Session from 2020 [link](https://github.com/admoseremic/summit2020)
+* QGIS - QGIS visualization workshop [link](https://github.com/GispoCoding/QGIS-visualization-workshop)
 
 ## Maps [link]()
 * R City Views - Shiny application to render minimalistic aerial city views [link](https://github.com/barajap1?tab=stars)
