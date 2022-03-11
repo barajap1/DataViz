@@ -29,8 +29,9 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Karo Ronty - Exploring bear markets of the S&P 500 [link](https://github.com/KaroRonty/BearMarkets)
 * Jake Kaupp - Entries for tidytuesday [link](https://github.com/jkaupp/tidytuesdays)
 
-## Packages [link]()
+## Packages 📦 [link]()
 * Awesome ggplot2 - A curated list of awesome ggplot2 tutorials, packages etc. [link](https://github.com/erikgahner/awesome-ggplot2)
+* VisualResume - An R package for creating a visual resume [link](https://github.com/ndphillips/VisualResume)
 * Colors for All [link](https://github.com/mtennekes/cols4all)
 * MetBrewer - Palettes inspired by works at the Metropolitan Museum of Art in New York. [link](https://github.com/BlakeRMills/MetBrewer)
 * LTC Palettes [link](https://github.com/loukesio/ltc_palettes)
@@ -52,6 +53,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * ggannotate - Interactively annotate ggplots [link](https://github.com/MattCowgill/ggannotate)   
 * carbonate - carbon.js for R [link](https://github.com/yonicd/carbonate)
 * mmtable2 - Create and combine tables with a ggplot2/patchwork syntax. [link](https://github.com/ianmoran11/mmtable2/)
+* Huxtable - An R package to create styled tables in multiple output formats, with a friendly, modern interface. [link](https://github.com/hughjonesd/huxtable)
 
 ## Courses/Tutorials [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
