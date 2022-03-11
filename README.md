@@ -3,6 +3,16 @@ A repo for DataViz resources, tips, notes, etc.
 
 This will be a collection for me to remember important concepts, topics, pacages, notes on blogs, books and other thigns I read and learn
 
+## Resources [link]()
+* Unblast - Best Free Fonts for Designers [link](https://unblast.com/fonts/)
+* Inconfinder [link](https://www.iconfinder.com/)
+* Pexels - Free stock photos [link](https://www.pexels.com/)
+* Free SVG images, SVG cut files and transparent PNG with CC0 public domain license [link](https://freesvg.org/)
+* Fonts in the Wild - Find the perfect font [link](https://www.fontsinthewild.com/free)
+* Coolors - The super fast color schemes generator! [link](https://coolors.co/)
+* Font Awesome - the Internet's icon library and toolkit [link](https://fontawesome.com/)
+* Google fonts [link](https://fonts.google.com/)
+
 ## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
