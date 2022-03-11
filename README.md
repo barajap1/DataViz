@@ -16,6 +16,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Creating-maps-in-R - Introductory tutorial on graphical display of geographical information in R. [link](https://github.com/Robinlovelace/Creating-maps-in-R)
 * Graphics principles - Landing page for the graphics principles site [link](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io)
 * Graphics principles CheatSheet - Repository for the cheatsheet and R code for generating the examples displayed. [link](https://github.com/GraphicsPrinciples/CheatSheet)
+* Data Visualization Standards - a collection of guidance and resources to help create better data visualizations with less effort  [link](https://xdgov.github.io/data-design-standards/)
 
 ## Blogs to follow [link]()
 * rcreate - Data viz recreates, made with ggplot2 [link](https://github.com/haro-ca/rcreate)
