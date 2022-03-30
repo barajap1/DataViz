@@ -28,6 +28,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Graphics principles - Landing page for the graphics principles site [link](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io)
 * Graphics principles CheatSheet - Repository for the cheatsheet and R code for generating the examples displayed. [link](https://github.com/GraphicsPrinciples/CheatSheet)
 * Data Visualization Standards - a collection of guidance and resources to help create better data visualizations with less effort  [link](https://xdgov.github.io/data-design-standards/)
+* Understanding text size and resolution in ggplot2 [link](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
 ## Blogs to follow [link]()
 * rcreate - Data viz recreates, made with ggplot2 [link](https://github.com/haro-ca/rcreate)
