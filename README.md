@@ -21,6 +21,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Videos [link]()
 
 ## Blogposts [link]()
+* A GGPLOT2 TUTORIAL FOR BEAUTIFUL PLOTTING IN R [link](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#style)
 * Amy Cesal -Dataviz style guide [link](https://github.com/amycesal/dataviz-style-guide)
 * Recreating the work of Minard in R [link](https://github.com/schochastics/minard)
 * ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R [link](https://github.com/z3tt/OutlierConf2021)
