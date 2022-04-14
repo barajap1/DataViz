@@ -13,6 +13,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Font Awesome - the Internet's icon library and toolkit [link](https://fontawesome.com/)
 * Google fonts [link](https://fonts.google.com/)
 * The Noun Project - Icons and Photos For Everything 🌟 [link](https://thenounproject.com)
+* iconstore.co [link](https://iconstore.co/)
 
 ## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
