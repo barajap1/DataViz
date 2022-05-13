@@ -18,6 +18,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
 * Making Maps with R [link](https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html)
+* Data Visualization with R [link](https://rkabacoff.github.io/datavis/)
 
 ## Videos [link]()
 
