@@ -14,6 +14,9 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Google fonts [link](https://fonts.google.com/)
 * The Noun Project - Icons and Photos For Everything 🌟 [link](https://thenounproject.com)
 * iconstore.co [link](https://iconstore.co/)
+* Fluent Emoji - Open source emoji from Microsoft [link](https://github.com/microsoft/fluentui-emoji)
+* ggplot Theme Cheatsheet [link](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
+
 
 ## Books [link]()
 * Visualization Analysis and Design by Tamara Munzner [link](https://www.cs.ubc.ca/~tmm/vadbook/)
@@ -81,6 +84,8 @@ This will be a collection for me to remember important concepts, topics, pacages
 * Washington Post - helicopters  [link](https://github.com/wpinvestigative/helicopters_dc)
 * admoseremic - code, examples, sample files, and slides shared in the Advanced Analysis with the Adobe Experience Platform and R Session from 2020 [link](https://github.com/admoseremic/summit2020)
 * QGIS - QGIS visualization workshop [link](https://github.com/GispoCoding/QGIS-visualization-workshop)
+* Graphic Design with ggplot2 [link](https://github.com/rstudio-conf-2022/ggplot2-graphic-design)
+
 
 ## Maps [link]()
 * R City Views - Shiny application to render minimalistic aerial city views [link](https://github.com/barajap1?tab=stars)
@@ -96,4 +101,5 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Building Websites [link]()
 * Hugo Apéro - a personal website theme made for Hugo by RStudio. [link](https://github.com/hugo-apero/iyo-apero)
 * postcards - Create simple, beautiful personal websites and landing pages using only R Markdown. [link](https://github.com/seankross/postcards)
+* Awesome Quarto - The most up to date curated list of Quarto® docs, talks, tools, examples & articles the internet has to offer. [link](https://github.com/mcanouil/awesome-quarto#tutorials--workshops)
 
