@@ -6,6 +6,7 @@ This will be a collection for me to remember important concepts, topics, pacages
 ## Resources [link]()
 * Unblast - Best Free Fonts for Designers [link](https://unblast.com/fonts/)
 * Inconfinder [link](https://www.iconfinder.com/)
+* Iconify [link](https://iconify.design/about/)
 * Pexels - Free stock photos [link](https://www.pexels.com/)
 * Free SVG images, SVG cut files and transparent PNG with CC0 public domain license [link](https://freesvg.org/)
 * Fonts in the Wild - Find the perfect font [link](https://www.fontsinthewild.com/free)
